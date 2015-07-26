@@ -1,0 +1,11 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "Test application for nodejs and Docker scaling",
+  "main": "app.js",
+  "author": "Ilkka Anttonen <ilkka.anttonen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
